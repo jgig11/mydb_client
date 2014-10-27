@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Reference/Reference.iml" filepath="$PROJECT_DIR$/../Reference/Reference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebTest.iml" filepath="$PROJECT_DIR$/WebTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mydb_client/mydb_client.iml" filepath="$PROJECT_DIR$/../mydb_client/mydb_client.iml" />
+      <module fileurl="file://F:/wrokspace/mydbserver/mydbserver.iml" filepath="F:/wrokspace/mydbserver/mydbserver.iml" />
+    </modules>
+  </component>
+</project>
+
